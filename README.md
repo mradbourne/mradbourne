@@ -7,7 +7,7 @@ I'm a full-stack software developer with a strong background in user-centred des
 I work in the Fintech industry, creating software to enable responsible and ethical investing. I hope this work does a bit of good for the world.
 
 Some things you may not know about me:
-- I blog about software development and user-centred design at [usershaped.com](https://usershaped.com).
+- I blog about software development and user-centred design at [radbourne.net](https://radbourne.net).
 - I love [a good hackathon or game jam](https://itch.io/profile/mradbourne).
 - [I produce audio for indie games](https://soundcloud.com/mradbourne) in my spare time.
 - I have helped teach User Experience Design at General Assembly.
